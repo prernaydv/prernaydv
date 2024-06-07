@@ -8,10 +8,10 @@
 
 - 💬 Ask me about **Python , Sql**
 
-- 📫 How to reach me **rcoder00@gmail.com**
+- 📫 How to reach me **prernaydv523@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBsY2g4NzUwMjVubGE2NXBrY2dvY3Jvc3Nic25vOXB0Z3RiZHA5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBsY2g4NzUwMjVubGE2NXBrY2dvY3Jvc3Nic25vOXB0Z3RiZHA5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)">
 <p align="left">
 </p>
 
