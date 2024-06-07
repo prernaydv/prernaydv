@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python , Sql**
+- 💬 Ask me about **Python , MySql**
 
 - 📫 How to reach me **prernaydv523@gmail.com**
 
